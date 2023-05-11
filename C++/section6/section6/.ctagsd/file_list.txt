@@ -1,0 +1,4 @@
+/Users/iseung-won/personal_study/C++/section6/section6/SizeOfOperator/main.cpp
+/Users/iseung-won/personal_study/C++/section6/section6/PrimitiveTypes/main.cpp
+/Users/iseung-won/personal_study/C++/section6/section6/GlobalVariables/main.cpp
+/Users/iseung-won/personal_study/C++/section6/section6/InitializingVariables/main.cpp

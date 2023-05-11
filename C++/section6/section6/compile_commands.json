@@ -1,0 +1,17 @@
+[{
+  "file": "/Users/iseung-won/personal_study/C++/section6/section6/SizeOfOperator/main.cpp",
+  "directory": "/Users/iseung-won/personal_study/C++/section6/section6/SizeOfOperator",
+  "command": "/usr/bin/g++ -c /Users/iseung-won/personal_study/C++/section6/section6/SizeOfOperator/main.cpp -o /Users/iseung-won/personal_study/C++/section6/section6/SizeOfOperator/main.cpp.o -target arm64-apple-darwin22.2.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/Users/iseung-won/personal_study/C++/section6/section6/PrimitiveTypes/main.cpp",
+  "directory": "/Users/iseung-won/personal_study/C++/section6/section6/PrimitiveTypes",
+  "command": "/usr/bin/g++ -c /Users/iseung-won/personal_study/C++/section6/section6/PrimitiveTypes/main.cpp -o /Users/iseung-won/personal_study/C++/section6/section6/PrimitiveTypes/main.cpp.o -target arm64-apple-darwin22.2.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/Users/iseung-won/personal_study/C++/section6/section6/GlobalVariables/main.cpp",
+  "directory": "/Users/iseung-won/personal_study/C++/section6/section6/GlobalVariables",
+  "command": "/usr/bin/g++ -c /Users/iseung-won/personal_study/C++/section6/section6/GlobalVariables/main.cpp -o /Users/iseung-won/personal_study/C++/section6/section6/GlobalVariables/main.cpp.o -target arm64-apple-darwin22.2.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/Users/iseung-won/personal_study/C++/section6/section6/InitializingVariables/main.cpp",
+  "directory": "/Users/iseung-won/personal_study/C++/section6/section6/InitializingVariables",
+  "command": "/usr/bin/g++ -c /Users/iseung-won/personal_study/C++/section6/section6/InitializingVariables/main.cpp -o /Users/iseung-won/personal_study/C++/section6/section6/InitializingVariables/main.cpp.o -target arm64-apple-darwin22.2.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }]

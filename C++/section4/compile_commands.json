@@ -1,4 +1,16 @@
 [{
+  "file": "/Users/iseung-won/personal_study/C++/section4/quiz/main.cpp",
+  "directory": "/Users/iseung-won/personal_study/C++/section4/quiz",
+  "command": "/usr/bin/g++ -c /Users/iseung-won/personal_study/C++/section4/quiz/main.cpp -o /Users/iseung-won/personal_study/C++/section4/quiz/main.cpp.o -target arm64-apple-darwin22.2.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/Users/iseung-won/personal_study/C++/section4/LinkError/main.cpp",
+  "directory": "/Users/iseung-won/personal_study/C++/section4/LinkError",
+  "command": "/usr/bin/g++ -c /Users/iseung-won/personal_study/C++/section4/LinkError/main.cpp -o /Users/iseung-won/personal_study/C++/section4/LinkError/main.cpp.o -target arm64-apple-darwin22.2.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
+  "file": "/Users/iseung-won/personal_study/C++/section4/CompilerError/main.cpp",
+  "directory": "/Users/iseung-won/personal_study/C++/section4/CompilerError",
+  "command": "/usr/bin/g++ -c /Users/iseung-won/personal_study/C++/section4/CompilerError/main.cpp -o /Users/iseung-won/personal_study/C++/section4/CompilerError/main.cpp.o -target arm64-apple-darwin22.2.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
+ }, {
   "file": "/Users/iseung-won/personal_study/C++/section4/firstProgram/main.cpp",
   "directory": "/Users/iseung-won/personal_study/C++/section4/firstProgram",
   "command": "/usr/bin/g++ -c /Users/iseung-won/personal_study/C++/section4/firstProgram/main.cpp -o /Users/iseung-won/personal_study/C++/section4/firstProgram/main.cpp.o -target arm64-apple-darwin22.2.0 -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include/c++/v1 -I/Library/Developer/CommandLineTools/usr/lib/clang/14.0.0/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/usr/include -I/Library/Developer/CommandLineTools/usr/include -I/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -I. -I.  -O0  -gdwarf-2  -std=c++17  -Wall"
