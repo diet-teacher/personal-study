@@ -1,0 +1,3 @@
+﻿  operator01.c
+d:\personal-study\c++\with_vs\class4\operator01\operator01\operator01.c(16): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+  operator01.vcxproj -> D:\personal-study\C++\with_VS\Class4\operator01\Debug\operator01.exe

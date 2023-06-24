@@ -1,0 +1,5 @@
+﻿  opDoubleInt.c
+d:\personal-study\c++\with_vs\class4\opdoubleint\opdoubleint\opdoubleint.c(10): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'double'입니다.
+d:\personal-study\c++\with_vs\class4\opdoubleint\opdoubleint\opdoubleint.c(19): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+d:\personal-study\c++\with_vs\class4\opdoubleint\opdoubleint\opdoubleint.c(25): warning C4477: 'printf' : 서식 문자열 '%f'에 'double' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+  opDoubleInt.vcxproj -> D:\personal-study\C++\with_VS\Class4\opDoubleInt\Debug\opDoubleInt.exe
